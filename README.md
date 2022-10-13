@@ -1,2 +1,2 @@
-# calculationa
-sample caluaction for algebric 
+# calculator
+sample calculation for algebric 
